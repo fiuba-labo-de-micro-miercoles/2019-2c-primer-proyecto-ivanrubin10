@@ -1,4 +1,4 @@
 Repositorio para la documentación de proyectos de
-6609/8607 Laboratorio de Microcontroladores
+8607 Laboratorio de Microcontroladores
 
 Ivan Eric Rubin
